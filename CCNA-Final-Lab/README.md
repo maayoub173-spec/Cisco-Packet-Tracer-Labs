@@ -242,4 +242,5 @@ show port-security address
 * IP addressing, routing behavior, redundancy, and security policies should be validated against the actual `.pkt` topology before being presented as tested results.
 * Do not commit real credentials, pre-shared keys, password hashes, private certificates, or sensitive configuration exports to a public repository. Replace any such values in device configuration screenshots or files with placeholders before publishing.
 * The design includes redundant paths and devices, but the documented topology still contains potential single points of failure. Avoid describing it as a completely SPOF-free design.
-
+* Tunnel key "pass"
+* username Ayoub secret AA55##66
